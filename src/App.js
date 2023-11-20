@@ -1,24 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './pages/Home';
+import { GlobalProvider } from './context/GlobalState'
+import {Routes,Route} from 'react-router-dom'
+import VideoDetails from './pages/VideoDetails';
+import VideoAdd from './pages/VideoAdd';
+import VideoUpdate from './pages/VideoUpdate';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <GlobalProvider>  
+      <Routes>
+        <Route path='/' element={<Home />}/>
+        <Route path='/video-details/:id' element={<VideoDetails />}/>
+        <Route path='/video-add' element={<VideoAdd />}/>
+        <Route path='/video-update/:id' element={<VideoUpdate />}/>
+      </Routes>
+    </GlobalProvider>
   );
 }
 

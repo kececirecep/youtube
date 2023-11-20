@@ -1,0 +1,162 @@
+
+[
+    {
+        "id":1,
+        "video_basligi": "Tailwind CSS çok mu çirkin 🤬 !?",
+        "yuklenme_tarihi": "1 yıl önce",
+        "izlenme_sayisi": "16 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@mertcifci",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/ytc/APkrFKYiWC4cCVlSuCxiF4_Mn9vcalANZj598US79Q=s48-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "yorum_id": 2,
+                "yorum_metni": "Lorem Ipsum pasajlarının birçok çeşitlemesi vardır. Ancak bunların büyük bir çoğunluğu mizah katılarak veya rastgele sözcükler eklenerek değiştirilmişlerdir. Eğer bir Lorem Ipsum pasajı kullanacaksanız, metin aralarına utandırıcı sözcükler gizlenmediğinden emin olmanız gerekir. İnternet'teki tüm Lorem Ipsum üreteçleri önceden belirlenmiş metin bloklarını yineler. Bu da, bu üreteci İnternet üzerindeki gerçek Lorem Ipsum üreteci yapar.!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@aslandogan",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/ytc/APkrFKbA3oQrKCVc_5fQ--1A_24qKKiEj7vxE3Qcj2E0kw=s48-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "yorum_id": 3,
+                "yorum_metni": "Yinelenen bir sayfa içeriğinin okuyucunun dikkatini dağıttığı bilinen bir gerçektir.",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@selinarar",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/ytc/APkrFKaWRW13tN9MzmuDgvSMBCOhqGIoDX9bXaaWFQ=s48-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "yorum_id": 4,
+                "yorum_metni": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@efeyagiz",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/29sLrQCGH2ecn2hLMYQnoxQWY1MaFjUAaChx3hk0m8btMqJe825blbycliMlzHZnAsfGyu7l9g=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 92,
+        "dislike_sayisi": 5,
+        "video_kucuk_resim": "https://i.ytimg.com/vi/YILRsDge4DU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZvQOnYPTN1YN9Mzf69-iQPgW1WQ",
+        "kullanici_adi": "Adem İlter",
+        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
+        "video_suresi": "31:52",
+        "aciklama":"Tailwind ile bir proje yapmak istersek nasıl bir yardımı oluyor görelim.",
+        "video_Url":"https://www.youtube.com/watch?v=YILRsDge4DU&pp=ygUXYWRlbSBpbHRlciB0YWlsd2luZCBjc3M%3D"
+    },
+    {
+        "id":2,
+        "video_basligi": "Unsplash API kullanarak fotoğraf albümü",
+        "yuklenme_tarihi": "2 yıl önce",
+        "izlenme_sayisi": "2,8 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@kesifci123",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 152,
+        "dislike_sayisi": 2,
+        "video_kucuk_resim": "https://i.ytimg.com/vi/QlFaKFEE19s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAZxHazjIlXW6maO99ML3J-7pyQA",
+        "kullanici_adi": "Adem İlter",
+        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
+        "video_suresi": "31:52",
+        "aciklama":"Unsplash API kullanarak fotoğraf albümü hazırlanmaya dair çok şey öğreneceksiniz.",
+        "video_Url":"https://www.youtube.com/watch?v=QlFaKFEE19s&pp=ygUXYWRlbSBpbHRlciB1bnNwbGFzaCBhcGk%3D"
+    },
+    {
+        "id":3,
+        "video_basligi": "JAMStack Nedir? - Sunum #1",
+        "yuklenme_tarihi": "3 Yıl Önce",
+        "izlenme_sayisi": "6,1 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@kesifci123",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 675,
+        "dislike_sayisi": 0,
+        "video_kucuk_resim": "https://i.hizliresim.com/sqyytsf.jpg",
+        "kullanici_adi": "Adem İlter",
+        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
+        "video_suresi": "21:50",
+        "aciklama":"Nextjs Kurulumu, Nextjs Dynamic Route, Strapi Kurulumu, Starpi Giriş, Next ile Strapi Bağlantısı, Nextjs Static Export ve Runtime Dosyaları Vercel ile Yayınlamak gibi bir çok konuya değindiğim videom sizlerle.",
+        "video_Url":"https://www.youtube.com/watch?v=MGhhbxC_j0M&pp=ygUUYWRlbSBpbHRlciBqYW0gc3RhY2s%3D"
+    },
+    {
+        "id":4,
+        "video_basligi": "Twitter Clone -1 / Projenin ve Layout'un Oluşturulması",
+        "yuklenme_tarihi": "13 gün önce",
+        "izlenme_sayisi": "15 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@kesifci123",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 900,
+        "dislike_sayisi": 5,
+        "video_kucuk_resim": "https://i.hizliresim.com/9ldyprp.jpg",
+        "kullanici_adi": "PROTOTURK",
+        "profil_resmi": "https://i.hizliresim.com/9sdobkq.jpg",
+        "video_suresi": "51:03",
+        "aciklama":"Bu ders Tayfun Erbilen tarafından prototurk.com için hazırlanmıştır.",
+        "video_Url":"https://www.youtube.com/watch?v=1Y1Aa8VI3Fw&pp=ygUedGF5ZnVuIGVyYmlsZW4gdHdpdHRlciBjbG9uZS0x"
+    },
+    {
+        "id":5,
+        "video_basligi": "Javascript ile Yüz Tanıma Sistemi | Face Detection Yapımı",
+        "yuklenme_tarihi": "4 yıl önce",
+        "izlenme_sayisi": "18 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@kesifci123",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 400,
+        "dislike_sayisi": 60,
+        "video_kucuk_resim": "https://i.ytimg.com/vi/6nNWwhcR_go/maxresdefault.jpg",
+        "kullanici_adi": "kablosuzkedi",
+        "profil_resmi": "https://i.hizliresim.com/1mx6iyo.jpg",
+        "video_suresi": "20:45",
+        "aciklama":"Hiç JavaScript ile hiç yüz tanıma nasıl yapılır? diye merak ettiniz mi? Ettiyseniz cevabı işte bu videoda. Bu videoda JavaScript kullanarak yüz tanıma sisteminin nasıl yapılacağı ile ilgili küçük ama oldukça heyecan verici bir uygulama yapacağız.Bu işlem için bir kütüphaneden yararlanacağız. Bu dersin sonunda Yüz tanıma sistemini kendi sisteminize uyarlamaya çalışacak ve başka nerelerde kullanabilirim, nasıl geliştirebilirim gibi sorularla kendinizi baş başa bulacaksınız :) ",
+        "video_Url":"https://www.youtube.com/watch?v=6nNWwhcR_go&pp=ygUSa2FibG9zdXoga2VkaSBmYWNl"
+    },
+    {
+        "id":6,
+        "video_basligi": "Düz PHP ölmüş ama ...",
+        "yuklenme_tarihi": "1 ay önce",
+        "izlenme_sayisi": "11 B görüntülenme",
+        "yorumlar": [
+            {
+                "yorum_id": 1,
+                "yorum_metni": "Harika bir keşif!",
+                "yorum_tarihi": "2023-09-26",
+                "yorum_kullanici": "@kesifci123",
+                "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+        ],
+        "like_sayisi": 12500,
+        "dislike_sayisi": 20,
+        "video_kucuk_resim": "https://i.ytimg.com/vi/1GUhIc7eyB4/maxresdefault.jpg",
+        "kullanici_adi": "PROTOTURK",
+        "profil_resmi": "https://i.hizliresim.com/9sdobkq.jpg",
+        "video_suresi": "36:33",
+        "aciklama":"Bu ders Tayfun Erbilen tarafından prototurk.com için hazırlanmıştır.",
+        "video_Url":"https://www.youtube.com/watch?v=1GUhIc7eyB4&pp=ygUTdGF5ZnVuIHBocCDDtmxtw7zFnw%3D%3D"
+    } 
+]
