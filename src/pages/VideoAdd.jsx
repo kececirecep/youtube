@@ -83,12 +83,12 @@ const VideoAdd = () => {
     }
 
     const completed = () => {
-        setbaslikValue("1) Giriş - Framer ile İnanılmaz Siteler Yapalım")
-        setvideoUrl("https://www.youtube.com/watch?v=oAAIdk8CEPs")
-        setaciklama("Framer,  hiç kod yazmadan hızlıca inanılmaz siteler yapacağınız no-code aracıdır. Bu video serisi en temelden en üst düzeye kadar framer özelliklerine değinir.")
-        setprofilresmi("https://i.hizliresim.com/lm0tarb.jpg")
-        setkucukresim("https://i.ytimg.com/vi/oAAIdk8CEPs/maxresdefault.jpg")
-        setkullaniciValue("Adem İlter")
+        setbaslikValue("Redux Toolkit: createAsyncThunk ile API isteği yapmak")
+        setvideoUrl("https://www.youtube.com/watch?v=pl2JNU9oZY8")
+        setaciklama("Bu videoda Redux Toolkit'in createAsyncThunk metoduyla bir API isteğinden döndürülen değerlerin state içinde nasıl kaydedildiğinden ve pending, fullfilled, rejected durumlarının nasıl ele alındığından bahsedilmektedir.")
+        setprofilresmi("https://i.hizliresim.com/c1ubvwu.png")
+        setkucukresim("https://i.ytimg.com/vi/pl2JNU9oZY8/hq720.jpg")
+        setkullaniciValue("React Dersleri")
     }
 
     return (

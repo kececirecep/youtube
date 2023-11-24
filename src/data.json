@@ -2,9 +2,9 @@
 [
     {
         "id":1,
-        "video_basligi": "Tailwind CSS çok mu çirkin 🤬 !?",
-        "yuklenme_tarihi": "1 yıl önce",
-        "izlenme_sayisi": "16 B görüntülenme",
+        "video_basligi": "Yalnızca HTML, CSS, Flexbox, Responsive Tasarım",
+        "yuklenme_tarihi": "3 yıl önce",
+        "izlenme_sayisi": "545 B görüntülenme",
         "yorumlar": [
             {
                 "yorum_id": 1,
@@ -35,20 +35,20 @@
                 "yorum_profil_resmi": "https://yt3.ggpht.com/29sLrQCGH2ecn2hLMYQnoxQWY1MaFjUAaChx3hk0m8btMqJe825blbycliMlzHZnAsfGyu7l9g=s48-c-k-c0x00ffffff-no-rj"
             }
         ],
-        "like_sayisi": 92,
+        "like_sayisi": 12,
         "dislike_sayisi": 5,
-        "video_kucuk_resim": "https://i.ytimg.com/vi/YILRsDge4DU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZvQOnYPTN1YN9Mzf69-iQPgW1WQ",
-        "kullanici_adi": "Adem İlter",
-        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
-        "video_suresi": "31:52",
-        "aciklama":"Tailwind ile bir proje yapmak istersek nasıl bir yardımı oluyor görelim.",
-        "video_Url":"https://www.youtube.com/watch?v=YILRsDge4DU&pp=ygUXYWRlbSBpbHRlciB0YWlsd2luZCBjc3M%3D"
+        "video_kucuk_resim": "https://i.ytimg.com/vi/y745R3Lv9WI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRFE8s9sQd-LhHYDvpReNsyzo9Aw",
+        "kullanici_adi": "Yazılım Bilimi",
+        "profil_resmi": "https://yt3.googleusercontent.com/ytc/APkrFKY-ty2RxcWvV3OVG4-ZVadR-8Q3gCRQNOWGK8kHVQ=s900-c-k-c0x00ffffff-no-rj",
+        "video_suresi": "7:40:14",
+        "aciklama":"Bu eğitim, katılımcılara HTML ve CSS kullanarak sayfa yapılandırma, Flexbox ile düzenleme ve responsive tasarım konularında temel web geliştirme becerilerini kazandırmayı amaçlar. Katılımcılar, bu dilleri kullanarak modern ve kullanıcı dostu web siteleri oluşturmayı öğrenirler.",
+        "video_Url":"https://www.youtube.com/watch?v=y745R3Lv9WI"
     },
     {
         "id":2,
-        "video_basligi": "Unsplash API kullanarak fotoğraf albümü",
-        "yuklenme_tarihi": "2 yıl önce",
-        "izlenme_sayisi": "2,8 B görüntülenme",
+        "video_basligi": "React ile Todo List Yapımı | React Örnekleri",
+        "yuklenme_tarihi": "1 yıl önce",
+        "izlenme_sayisi": "7 B görüntülenme",
         "yorumlar": [
             {
                 "yorum_id": 1,
@@ -58,20 +58,20 @@
                 "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
             }
         ],
-        "like_sayisi": 152,
+        "like_sayisi": 12,
         "dislike_sayisi": 2,
-        "video_kucuk_resim": "https://i.ytimg.com/vi/QlFaKFEE19s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAZxHazjIlXW6maO99ML3J-7pyQA",
-        "kullanici_adi": "Adem İlter",
-        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
+        "video_kucuk_resim": "https://i.ytimg.com/vi/2dCBP_yIiFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4oZcVx2TAswywRA0JREMiHGd--g",
+        "kullanici_adi": "Bilgisayar Genetiği",
+        "profil_resmi": "https://yt3.googleusercontent.com/QNct0Hwj2cRk3x8x4DsHcRHOfogezNgNw9faXtm3wm4hgVxIm14G6z16UVQtbzEYb7etnpnZ54o=s900-c-k-c0x00ffffff-no-rj",
         "video_suresi": "31:52",
-        "aciklama":"Unsplash API kullanarak fotoğraf albümü hazırlanmaya dair çok şey öğreneceksiniz.",
-        "video_Url":"https://www.youtube.com/watch?v=QlFaKFEE19s&pp=ygUXYWRlbSBpbHRlciB1bnNwbGFzaCBhcGk%3D"
+        "aciklama":"Selamlar. Bu videoda #react ile #todolist yaptık. İşlemleri  #localstorage 'e kaydettik. Projede #html #css kullandık. Projeyi elimden geldiğince açıklayıcı anlatmaya çalıştım. Hatalı gördüğünüz ve anlamadığınız kısımları yorumlarda belirtmeyi unutmayın. İyi çalışmalar, bol kodlu günler :)",
+        "video_Url":"https://www.youtube.com/watch?v=2dCBP_yIiFU"
     },
     {
         "id":3,
-        "video_basligi": "JAMStack Nedir? - Sunum #1",
-        "yuklenme_tarihi": "3 Yıl Önce",
-        "izlenme_sayisi": "6,1 B görüntülenme",
+        "video_basligi": "8-REACT Dersleri, Function Component Props Kullanımı",
+        "yuklenme_tarihi": "1 Yıl Önce",
+        "izlenme_sayisi": "1,3 B görüntülenme",
         "yorumlar": [
             {
                 "yorum_id": 1,
@@ -81,14 +81,14 @@
                 "yorum_profil_resmi": "https://yt3.ggpht.com/yti/ADpuP3MF3mr5am0_GrLIe3zRuPZJOGA_pkYcV1uTnBItvQ=s48-c-k-c0x00ffffff-no-rj"
             }
         ],
-        "like_sayisi": 675,
-        "dislike_sayisi": 0,
-        "video_kucuk_resim": "https://i.hizliresim.com/sqyytsf.jpg",
-        "kullanici_adi": "Adem İlter",
-        "profil_resmi": "https://i.hizliresim.com/lm0tarb.jpg",
-        "video_suresi": "21:50",
-        "aciklama":"Nextjs Kurulumu, Nextjs Dynamic Route, Strapi Kurulumu, Starpi Giriş, Next ile Strapi Bağlantısı, Nextjs Static Export ve Runtime Dosyaları Vercel ile Yayınlamak gibi bir çok konuya değindiğim videom sizlerle.",
-        "video_Url":"https://www.youtube.com/watch?v=MGhhbxC_j0M&pp=ygUUYWRlbSBpbHRlciBqYW0gc3RhY2s%3D"
+        "like_sayisi": 75,
+        "dislike_sayisi": 1,
+        "video_kucuk_resim": "https://i.ytimg.com/vi/EUFriO2EPro/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Lq1dXN2-Df2NyJv_bLqfcC7C4g",
+        "kullanici_adi": "Mustafa Filiz",
+        "profil_resmi": "https://yt3.googleusercontent.com/ytc/APkrFKZzmhjhM5P8yRI1JDhaxXJkEiWc5D-t-dn9kgZO=s900-c-k-c0x00ffffff-no-rj",
+        "video_suresi": "4:02",
+        "aciklama":"Bu ders serisi, React üzerinde odaklanarak öğrencilere function component'lerin nasıl oluşturulacağını ve props kullanımının nasıl gerçekleştirileceğini öğretir. Katılımcılar, React uygulamalarını daha etkili bir şekilde geliştirmek için bu temel konuları öğrenerek interaktif ve dinamik web uygulamaları oluşturmayı keşfederler.",
+        "video_Url":"https://www.youtube.com/watch?v=EUFriO2EPro"
     },
     {
         "id":4,
