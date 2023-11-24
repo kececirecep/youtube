@@ -15,16 +15,16 @@ const VideoAdd = () => {
     
     const [baslikValue, setbaslikValue] = useState(""), [kullaniciValue, setkullaniciValue] = useState("");
     const [comments, setcomments] = useState([]);
-    const [izlenmesayisi, setizlenmesayisi] = useState(0 + " görüntülenme");//
+    const [izlenmesayisi, setizlenmesayisi] = useState(0 + " görüntülenme");
     //const [yuklenmetarihi, setyuklenmetarihi] = useState(new Date().toLocaleTimeString());
     const [yuklenmetarihi, setyuklenmetarihi] = useState("Bugün");
-    const [likesayisi, setlikesayisi] = useState(0);//
-    const [dislikesayisi, setdislikesayisi] = useState(0);//
+    const [likesayisi, setlikesayisi] = useState(0);
+    const [dislikesayisi, setdislikesayisi] = useState(0);
     const [kucukresim, setkucukresim] = useState("");
     const [profilresmi, setprofilresmi] = useState("");
     const [aciklama, setaciklama] = useState("");
     const [videoUrl, setvideoUrl] = useState("");
-    const [videoSuresi, setvideoSuresi] = useState("unknown");//
+    const [videoSuresi, setvideoSuresi] = useState("14:50");
 
     const add = () => {
         if (baslikValue === "" && kullaniciValue === "") {
